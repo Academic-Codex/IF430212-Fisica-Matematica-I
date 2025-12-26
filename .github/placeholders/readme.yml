@@ -1,0 +1,12 @@
+REPO_TAGLINE: Vector calculus • PDEs • Special Functions
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/IF430212-Fisica-Matematica-I
+
+BG_1: "#0B1020"
+BG_2: "#312E81"
+TEXT_MAIN: "#EEF2FF"
+TEXT_MUTED: "#C7D2FE"
+ACCENT: "#A78BFA"
+CARD_RADIUS: "18"
